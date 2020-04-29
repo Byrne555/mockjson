@@ -1,10 +1,6 @@
 {
   
-   "Stat": {
-    "success": "#5BC24C",
-    "danger": "#E63F24",
-    "warning": "#F5B025"
-  },
+   "Stat":  "success" ,
   
   "Services": [
     {
