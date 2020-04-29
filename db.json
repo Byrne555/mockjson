@@ -1,6 +1,5 @@
 {
-  "Status": "OK",
-  "Services": [
+  "posts":  [
     {
       "itemid": "orderproc1111",
       "description": "Order Processing",
@@ -10,19 +9,15 @@
     {
       "itemid": "orderproc2231",
       "description": "Credit Processing",
-      "message": "",
+      "message": "test message",
       "status": "success"
     },
     {
       "itemid": "suppliers1112",
       "description": "Parts Authority",
-      "message": "",
+      "message": "test message 2",
       "status": "success"
     }
-  ],
-  "Statuses": {
-    "success": "#5BC24C",
-    "danger": "#E63F24",
-    "warning": "#F5B025"
-  }
+  ]
+ 
 }
