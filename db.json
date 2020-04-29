@@ -1,24 +1,18 @@
-{ 
+{
   "number": 3,
-  "posts":  [
+  "message": "success",
+  "people": [
     {
-      "itemid": "orderproc1111",
-      "description": "Order Processing",
-      "message": "payment processing issue",
-      "status": "danger"
+      "craft": "ISS",
+      "name": "Chris Cassidy"
     },
     {
-      "itemid": "orderproc2231",
-      "description": "Credit Processing",
-      "message": "test message",
-      "status": "success"
+      "craft": "ISS",
+      "name": "Anatoly Ivanishin"
     },
     {
-      "itemid": "suppliers1112",
-      "description": "Parts Authority",
-      "message": "test message 2",
-      "status": "success"
+      "craft": "ISS",
+      "name": "Ivan Vagner"
     }
   ]
- 
 }
