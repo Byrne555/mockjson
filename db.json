@@ -1,0 +1,28 @@
+{
+  "Status": "OK",
+  "Services": [
+    {
+      "itemid": "orderproc1111",
+      "description": "Order Processing",
+      "message": "payment processing issue",
+      "status": "danger"
+    },
+    {
+      "itemid": "orderproc2231",
+      "description": "Credit Processing",
+      "message": "",
+      "status": "success"
+    },
+    {
+      "itemid": "suppliers1112",
+      "description": "Parts Authority",
+      "message": "",
+      "status": "success"
+    }
+  ],
+  "Statuses": {
+    "success": "#5BC24C",
+    "danger": "#E63F24",
+    "warning": "#F5B025"
+  }
+}
