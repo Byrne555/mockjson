@@ -56,7 +56,7 @@
       "description": "Parts Authority",
       "message": "Status Ok",
       "status": "success"
-    },
+    }
   ],
    "Statuses": {
     "success": "#5BC24C",
