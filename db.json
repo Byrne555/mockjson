@@ -20,7 +20,7 @@
       "description": "Parts Authority",
       "message": "Email down",
       "status": "danger"
-    },
+    }
      {
       "itemid": "orderproc1112",
       "description": "Order Processing",
