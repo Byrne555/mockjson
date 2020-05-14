@@ -69,7 +69,12 @@
       "message": "Status Ok",
       "status": "success"
     }
-  ]
+  ],
+ "Statuses": {
+    "success": "#5BC24C",
+    "danger": "#E63F24",
+    "warning": " "
+  }
 
 
 }
