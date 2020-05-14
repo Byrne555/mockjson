@@ -13,7 +13,7 @@
       "itemid": "orderproc2231",
       "description": "Credit Processing",
       "message": "Pamyment on hold",
-      "status": "warning"
+      "status": "success"
     },
     {
       "itemid": "suppliers1112",
