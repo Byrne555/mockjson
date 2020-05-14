@@ -19,7 +19,7 @@
       "itemid": "suppliers1112",
       "description": "Parts Authority",
       "message": "Email down",
-      "status": "danger"
+      "status": "success"
     },
      {
       "itemid": "orderproc1112",
@@ -61,13 +61,13 @@
       "itemid": "orderproc223533",
       "description": "Credit Processing",
       "message": "Payment on hold",
-      "status": "warning"
+      "status": "danger"
     },
     {
       "itemid": "suppliers111635",
       "description": "Parts Authority",
       "message": "Status Ok",
-      "statussw": "success"
+      "status": "success"
     }
   ],
  "Statuses": {
