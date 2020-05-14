@@ -13,13 +13,13 @@
       "itemid": "orderproc2231",
       "description": "Credit Processing",
       "message": "Pamyment on hold",
-      "status": "danger"
+      "status": "warning"
     },
     {
       "itemid": "suppliers1112",
       "description": "Parts Authority",
       "message": "Email down",
-      "status": "danger"
+      "status": "warning"
     },
      {
       "itemid": "orderproc1112",
