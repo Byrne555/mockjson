@@ -7,7 +7,7 @@
       "itemid": "orderproc1111",
       "description": "Order Processing",
       "message": "payment processing issue",
-      "status": "danger"
+      "status": "warning"
     },
     {
       "itemid": "orderproc2231",
