@@ -7,19 +7,19 @@
       "itemid": "orderproc1111",
       "description": "Order Processing",
       "message": "payment processing issue",
-      "status": "warning"
+      "status": "danger"
     },
     {
       "itemid": "orderproc2231",
       "description": "Credit Processing",
       "message": "Pamyment on hold",
-      "status": "success"
+      "status": "danger"
     },
     {
       "itemid": "suppliers1112",
       "description": "Parts Authority",
       "message": "Email down",
-      "status": "warning"
+      "status": "danger"
     },
      {
       "itemid": "orderproc1112",
@@ -37,13 +37,13 @@
       "itemid": "suppliers1113",
       "description": "Parts Authority",
       "message": "Status Ok",
-      "status": "success"
+      "status": "danger"
     },
        {
       "itemid": "orderproc1114",
       "description": "Order Processing",
       "message": "payment processing issue",
-      "status": "danger"
+      "status": "success"
     },
     {
       "itemid": "orderproc2235",
