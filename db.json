@@ -31,7 +31,7 @@
       "itemid": "orderproc2232",
       "description": "Credit Processing",
       "message": "Payment declined",
-      "status": "danger"
+      "status": "success"
     },
     {
       "itemid": "suppliers1113",
