@@ -25,13 +25,13 @@
       "itemid": "orderproc1112",
       "description": "Order Processing",
       "message": "payment processing issue",
-      "status": "danger"
+      "status": "warning"
     },
     {
       "itemid": "orderproc2232",
       "description": "Credit Processing",
       "message": "Payment declined",
-      "status": "success"
+      "status": "warning"
     },
     {
       "itemid": "suppliers1113",
