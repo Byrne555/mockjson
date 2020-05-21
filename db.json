@@ -19,7 +19,7 @@
       "itemid": "suppliers1112",
       "description": "Parts Authority",
       "message": "Email down",
-      "status": "success"
+      "status": "warning"
     },
      {
       "itemid": "orderproc1112",
@@ -31,7 +31,7 @@
       "itemid": "orderproc2232",
       "description": "Credit Processing",
       "message": "Payment declined",
-      "status": "warning"
+      "status": "danger"
     },
     {
       "itemid": "suppliers1113",
