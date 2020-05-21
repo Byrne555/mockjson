@@ -55,7 +55,7 @@
       "itemid": "suppliers1116",
       "description": "Parts Authority",
       "message": "Status Ok",
-      "status": "danger"
+      "status": "success"
     },
     {
       "itemid": "orderproc223533",
