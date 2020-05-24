@@ -38,42 +38,6 @@
       "description": "Parts Authority",
       "message": "Status Ok",
       "status": "danger"
-    },
-       {
-      "itemid": "orderproc1114",
-      "description": "Order Processing",
-      "message": "payment processing issue",
-      "status": "warning"
-    },
-    {
-      "itemid": "orderproc2235",
-      "description": "Credit Processing",
-      "message": "Payment on hold",
-      "status": "success"
-    },
-    {
-      "itemid": "suppliers1116",
-      "description": "Parts Authority",
-      "message": "Status Ok",
-      "status": "success"
-    },
-    {
-      "itemid": "orderproc223533",
-      "description": "Credit Processing",
-      "message": "Payment on hold",
-      "status": "danger"
-    },
-    {
-      "itemid": "suppliers111635",
-      "description": "Parts Authority",
-      "message": "Status Ok",
-      "status": "success"
-    },
-    {
-      "itemid": "suppliers111656",
-      "description": "Parts Authority",
-      "message": "Status Ok",
-      "status": "danger"
     }
   ],
  "Statuses": {
